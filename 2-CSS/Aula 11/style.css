@@ -1,0 +1,52 @@
+body{
+    background: #dfdfdf;
+    font-family: 'Ubuntu', sans-serif;
+    color: #222222;
+}
+
+.container{
+    width: 860px;
+    margin: 0 auto;
+}
+
+.profile{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.foto-principal{
+    width: 200px;
+    height: 200px;
+    border:2px solid #ffffff ;
+    border-radius: 50%;
+    margin: 5px;
+    /*padding: 10px;*/
+    box-shadow: 0px 0px 9px #16504d;
+  
+}
+
+h1{
+    margin-bottom: 0;
+    letter-spacing:-2px
+    font-family: 'Dancing Script', cursive;
+}
+
+h2{
+    margin-top:0;
+    font-style: italic;
+    color: rgb(77, 77, 77);
+    font-weight: 400;
+    letter-spacing:-2px ;
+}
+
+.social-links{
+    text-decoration: none;
+}
+
+.social-icons{
+    width: 50px;
+}
+
+.linkedin{
+    margin-right: 15px;
+}

@@ -1,0 +1,21 @@
+body{
+    background: #dfdfdf;
+}
+
+p{
+    color: #222222;
+}
+
+.foto-principal{
+    width: 150px;
+    height: 150px;
+    border:2px solid #ffffff ;
+    border-radius: 70% 70% 20% 20%;
+    /*
+    margin-top: 10px;
+    margin-left: 500px;
+    */
+    margin: 10px 100px 10px 30px; 
+    /* Margin é no sentido anti horario: TOP - RIGHT - BOTTOM - LEFT*/
+  
+}
